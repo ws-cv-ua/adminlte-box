@@ -1,0 +1,29 @@
+{
+  "name": "ws-cv-ua/adminlte-box",
+  "description": "Widget for showing simple box of adminlte",
+  "license": "MIT",
+  "homepage": "https://github.com/ws-cv-ua/adminlte-box",
+  "stability":"stable",
+  "minimum-stability":"stable",
+  "authors": [
+    {
+      "name": "Web-Studio.cv.ua",
+      "email": "info@web-studio.cv.ua",
+      "homepage": "http://Web-Studio.cv.ua"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "wscvua\\lefttime\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.0-dev"
+    }
+  }
+}
