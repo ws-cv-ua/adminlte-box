@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "wscvua\\lefttime\\": ""
+      "wscvua\\adminlte\\": ""
     }
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "2.0.0-dev"
+      "dev-master": "0.0.2"
     }
   }
 }
