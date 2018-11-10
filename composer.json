@@ -4,7 +4,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ws-cv-ua/adminlte-box",
   "stability":"stable",
-  "minimum-stability":"stable",
+  "minimum-stability":"dev",
   "authors": [
     {
       "name": "Web-Studio.cv.ua",
