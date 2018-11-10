@@ -19,10 +19,5 @@
     "psr-4": {
       "wscvua\\adminltebox\\": ""
     }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "3.0.0-dev"
-    }
   }
 }
