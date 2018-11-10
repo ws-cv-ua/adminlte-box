@@ -3,7 +3,6 @@
   "description": "Widget for showing simple box of adminlte",
   "license": "MIT",
   "homepage": "https://github.com/ws-cv-ua/adminlte-box",
-  "stability":"stable",
   "minimum-stability":"dev",
   "authors": [
     {
